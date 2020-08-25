@@ -1,0 +1,40 @@
+.search {
+    position: relative;
+    top: 0.9rem;
+    left: 90%;
+    height: 30px;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 300px;
+    z-index: 10;
+}
+
+.search input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 80%;
+}
+
+.locate {
+    position: relative;
+    top: 120px;
+    right: 1rem;
+    left: 41rem;
+    background: none;
+    border: none;
+    z-index: 10;
+}
+.locate img {
+    width: 30px;
+    cursor: pointer;
+}
+.estisearch {
+    position: relative;
+    top: 2.5rem;
+    left: 40%;
+    height: 30px;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 300px;
+    z-index: 10;
+}
